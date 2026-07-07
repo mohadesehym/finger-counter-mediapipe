@@ -40,7 +40,7 @@ markdown
 ### ۱. کلون کردن مخزن
 
 bash
-git clone https://github.com/Mohadeseh_ym/finger-counter.git
+git clone https://github.com/Mohadesehym/finger-counter.git
 cd finger-counter
 
 
